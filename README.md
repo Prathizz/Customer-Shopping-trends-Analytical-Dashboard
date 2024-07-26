@@ -1,4 +1,6 @@
 # Customer Shopping Trends Dashboard
+![Screenshot 2024-07-25 114216](https://github.com/user-attachments/assets/36cc2669-114d-4810-a035-f227485e535f)
+
 
 This repository provides an analytical overview of customer shopping trends using a dashboard. The key metrics and visualizations include total purchase amount, customer visit rate, top items purchased, sales comparison by season, average review scores, customer distribution by age and gender, customer count by location, and the impact of discounts on sales amount.
 
